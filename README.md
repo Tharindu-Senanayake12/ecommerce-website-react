@@ -144,7 +144,6 @@ npm run dev
 
 ## 🖼️ **Screenshots**
 
-Add UI screenshots here for better visuals.
 
 ---
 
